@@ -148,10 +148,10 @@
   
         <!-- Tombol Login dan Register -->
         <div class="button-container">
-            <form action="login.php" method="post" style="display: inline;">
+            <form action="" method="post" style="display: inline;">
                 <button type="submit">Login</button>
             </form>
-            <form action="akun/formakun.php" method="get" style="display: inline;">
+            <form action="" method="get" style="display: inline;">
                 <button type="submit" class="register">Register</button>
             </form>
         </div>

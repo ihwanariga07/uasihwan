@@ -137,7 +137,7 @@
     <!-- Kontainer utama -->
     <div class="container">
         <!-- Gambar Profil -->
-        <img src="/PROJECT/logo/internet.png" alt="default">
+        <img src="/UAS_IHWAN/uasihwanariga/logo/hotel.png" alt="default">
         
         <!-- Judul -->
         <h1>Selamat Datang</h1>

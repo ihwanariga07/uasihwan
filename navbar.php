@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg bg-info-subtle">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="/PROJECT/logo/internet.png" alt="Brand Logo" type="image" width="50" height="50">
+      <img src="/UAS_IHWAN/uasihwanariga/logo/hotel.png" alt="Brand Logo" type="image" width="50" height="50">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -12,14 +12,12 @@
           <a class="nav-link menu active" aria-current="page" href="">Beranda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link menu active" aria-current="page" href="">Data Mahasiswa</a>
+          <a class="nav-link menu active" aria-current="page" href="">Data Pemesanan</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link menu active" aria-current="page" href="">Data Jurusan</a>
+          <a class="nav-link menu active" aria-current="page" href="">Data Tamu</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link menu active" aria-current="page" href="">Data Dosen</a>
-        </li>
+       
       </ul>
       <form class="d-flex mx-auto me-50" role="search" style="width: 50%;">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -28,7 +26,7 @@
 
       <a 
         class="btn btn-danger nav-link text-black" 
-        href="/uasihwan/frontpage.php" 
+        href="" 
         onclick="return confirmLogout(event);"
       >Logout</a>
     </div>
